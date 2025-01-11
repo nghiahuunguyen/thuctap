@@ -15,6 +15,6 @@
     "sslmode": "require"
   },
   "sqlite": {
-    "path": "data/sqldb.db"
+    "path": "F:/infodation-intern/Training2024/Cost-Central-Monitor/Chat_AI_Project/data/sqldb.db"
   }
 }

@@ -18,7 +18,7 @@ from langchain_community.agent_toolkits import create_sql_agent
 load_dotenv()
 
 def load_config():
-    with open("db_config.json", "r") as f:
+    with open("F:\infodation-intern\Training2024\Cost-Central-Monitor\Chat_AI_Project\db_config.json", "r") as f:
         return json.load(f)
 
 # Database initialization functions
